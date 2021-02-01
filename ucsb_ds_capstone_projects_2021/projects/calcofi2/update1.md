@@ -1,8 +1,10 @@
 # Update 1
 ![](imagess/fish.png)
 
-## Overview
+<img src="imagess/fish.png" width="800">
 
+## Overview
+test test
 Given various water characteristics over many geographic regions, we would like to correlate this to the makeup of marine life so that in the future observing the water around California's coast can give effective insight over how the makeup of marine life should be. This can be vital to preserving the environment, helping endangered marine species, and ensuring the well health of our oceans in general as well.
 
 Our primary dataset comprises of two large time series datasets regarding many water characteristics across many regions and depths of California's coast over years of time steps, and an even larger time series dataset comprising of the topology and makeup of many species of marine life accross many regions off of California's coast. We want to find correlations between the makeup of water, and how this affects the current and future states of how marine life looks in various regions; this might change from species to species of course, and we also would like to explore the various causal factors that can be existent regarding the various water characteristics region to region, which in turn affects the makeup of marine life.
