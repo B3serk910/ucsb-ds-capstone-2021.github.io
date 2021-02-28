@@ -1,5 +1,5 @@
 # Update 1
-```{figure} images/intro.png
+```{figure} image/fish1.png
 ---
 height: 150px
 name: directive-fig
